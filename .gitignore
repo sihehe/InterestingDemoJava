@@ -1,0 +1,53 @@
+# author ChuanJing
+# date 2017年9月7日 下午3:55:12
+# version 1.0
+
+# IntelliJ IDEA 工程需要忽略的文件
+.idea
+*.iml
+*.iws
+*.ipr
+out
+gen
+target
+
+/InterestingDemoJava/.idea
+/InterestingDemoJava/*.iml
+/InterestingDemoJava/out
+/InterestingDemoJava/gen
+/InterestingDemoJava/target
+
+/InterestingVUE/.idea
+/InterestingVUE/*.iml
+/InterestingVUE/out
+/InterestingVUE/gen
+/InterestingVUE/target
+
+/InterestingRabbitMQ/.idea
+/InterestingRabbitMQ/*.iml
+/InterestingRabbitMQ/out
+/InterestingRabbitMQ/gen
+/InterestingRabbitMQ/target
+
+
+
+# Eclipse 工程需要忽略的文件
+/.project
+/.classpath
+/.settings
+/target
+
+/InterestingDemoJava/.project
+/InterestingDemoJava/.classpath
+/InterestingDemoJava/.settings
+/InterestingDemoJava/target
+
+/InterestingVUE/.project
+/InterestingVUE/.classpath
+/InterestingVUE/.settings
+/InterestingVUE/target
+
+/InterestingRabbitMQ/.project
+/InterestingRabbitMQ/.classpath
+/InterestingRabbitMQ/.settings
+/InterestingRabbitMQ/target
